@@ -18,7 +18,6 @@ Compile and run with:
 Type an integer to get its reverse.
 Leading zeroes are discarded.
 
-
 ## Running the tests
 
 To run the tests, use:
