@@ -29,6 +29,6 @@ To run the tests, use:
 
 The [kanban board] can be accessed [here].
 
-[kanban board]: https://github.com/orgs/jth-computing/projects/2/views/1
-[here]:         https://github.com/orgs/jth-computing/projects/2/views/1
+[kanban board]: https://github.com/users/mtaromi/projects/2
+[here]:         https://github.com/users/mtaromi/projects/2
 
