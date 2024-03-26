@@ -33,3 +33,7 @@ The [kanban board] can be accessed [here].
 [kanban board]: https://github.com/users/mtaromi/projects/2
 [here]:         https://github.com/users/mtaromi/projects/2
 
+## Declaration
+I ...
+
+
